@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Prowlarr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://prowlarr.com/
+Prowlarr is an open-source indexer manager that integrates with popular media automation tools such as Sonarr, Radarr, Lidarr, and Readarr. It provides a unified interface to configure and manage multiple torrent and usenet indexers, handling API keys, categories, and search parameters. The platform supports automated searching, downloading, and metadata retrieval, enabling seamless media collection workflows. Prowlarr is community-driven, regularly updated, and offers extensive documentation and API access for developers to build integrations or custom tools.
+
+**Areas:** Software · Indexing · Media Management · Open Source · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://prowlarr.com/)
+- [Documentation](https://prowlarr.com/docs/)
+- [Getting started](https://prowlarr.com/docs/getting-started)
+- [API reference](https://prowlarr.com/docs/api/)
+- [Pricing](https://prowlarr.com/pricing)
+- [Sign up](https://prowlarr.com/signup)
+- [Support](https://prowlarr.com/support)
+- [Blog](https://prowlarr.com/blog)
+- [Terms of service](https://prowlarr.com/terms)
+- [Privacy policy](https://prowlarr.com/privacy)
+- [GitHub](https://github.com/Prowlarr)
+- [Status](https://status.prowlarr.com/)
+
+**APIs profiled:** 34
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/prowlarr/](https://apis.io/providers/prowlarr/).
