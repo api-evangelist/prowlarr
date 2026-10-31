@@ -68,6 +68,93 @@ Prowlarr is an open-source indexer manager that integrates with popular media au
 
 **Areas:** Software · Indexing · Media Management · Open Source · API
 
+## Prowlarr on APIs.io
+
+Everything profiled for Prowlarr is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/prowlarr/](https://apis.io/providers/prowlarr/)** — or go straight to one of the APIs or properties below.
+
+### APIs (34)
+
+- [Prowlarr API Info API](https://apis.io/apis/prowlarr/prowlarr-apiinfo-api/) — The ApiInfo API from Prowlarr — 1 operation(s) for apiinfo.
+- [Prowlarr Application API](https://apis.io/apis/prowlarr/prowlarr-application-api/) — The Application API from Prowlarr — 7 operation(s) for application.
+- [Prowlarr App Profile API](https://apis.io/apis/prowlarr/prowlarr-appprofile-api/) — The AppProfile API from Prowlarr — 3 operation(s) for appprofile.
+- [Prowlarr Authentication API](https://apis.io/apis/prowlarr/prowlarr-authentication-api/) — The Authentication API from Prowlarr — 2 operation(s) for authentication.
+- [Prowlarr Backup API](https://apis.io/apis/prowlarr/prowlarr-backup-api/) — The Backup API from Prowlarr — 4 operation(s) for backup.
+- [Prowlarr Command API](https://apis.io/apis/prowlarr/prowlarr-command-api/) — The Command API from Prowlarr — 2 operation(s) for command.
+- [Prowlarr Custom Filter API](https://apis.io/apis/prowlarr/prowlarr-customfilter-api/) — The CustomFilter API from Prowlarr — 2 operation(s) for customfilter.
+- [Prowlarr Development Config API](https://apis.io/apis/prowlarr/prowlarr-developmentconfig-api/) — The DevelopmentConfig API from Prowlarr — 2 operation(s) for developmentconfig.
+- [Prowlarr Download Client API](https://apis.io/apis/prowlarr/prowlarr-downloadclient-api/) — The DownloadClient API from Prowlarr — 7 operation(s) for downloadclient.
+- [Prowlarr Download Client Config API](https://apis.io/apis/prowlarr/prowlarr-downloadclientconfig-api/) — The DownloadClientConfig API from Prowlarr — 2 operation(s) for downloadclientconfig.
+- [Prowlarr File System API](https://apis.io/apis/prowlarr/prowlarr-filesystem-api/) — The FileSystem API from Prowlarr — 2 operation(s) for filesystem.
+- [Prowlarr Health API](https://apis.io/apis/prowlarr/prowlarr-health-api/) — The Health API from Prowlarr — 1 operation(s) for health.
+- [Prowlarr History API](https://apis.io/apis/prowlarr/prowlarr-history-api/) — The History API from Prowlarr — 3 operation(s) for history.
+- [Prowlarr Host Config API](https://apis.io/apis/prowlarr/prowlarr-hostconfig-api/) — The HostConfig API from Prowlarr — 2 operation(s) for hostconfig.
+- [Prowlarr Indexer API](https://apis.io/apis/prowlarr/prowlarr-indexer-api/) — The Indexer API from Prowlarr — 7 operation(s) for indexer.
+- [Prowlarr Indexer Default Categories API](https://apis.io/apis/prowlarr/prowlarr-indexerdefaultcategories-api/) — The IndexerDefaultCategories API from Prowlarr — 1 operation(s) for indexerdefaultcategories.
+- [Prowlarr Indexer Proxy API](https://apis.io/apis/prowlarr/prowlarr-indexerproxy-api/) — The IndexerProxy API from Prowlarr — 6 operation(s) for indexerproxy.
+- [Prowlarr Indexer Stats API](https://apis.io/apis/prowlarr/prowlarr-indexerstats-api/) — The IndexerStats API from Prowlarr — 1 operation(s) for indexerstats.
+- [Prowlarr Indexer Status API](https://apis.io/apis/prowlarr/prowlarr-indexerstatus-api/) — The IndexerStatus API from Prowlarr — 1 operation(s) for indexerstatus.
+- [Prowlarr Localization API](https://apis.io/apis/prowlarr/prowlarr-localization-api/) — The Localization API from Prowlarr — 2 operation(s) for localization.
+- [Prowlarr Log API](https://apis.io/apis/prowlarr/prowlarr-log-api/) — The Log API from Prowlarr — 1 operation(s) for log.
+- [Prowlarr Log File API](https://apis.io/apis/prowlarr/prowlarr-logfile-api/) — The LogFile API from Prowlarr — 2 operation(s) for logfile.
+- [Prowlarr Newznab API](https://apis.io/apis/prowlarr/prowlarr-newznab-api/) — The Newznab API from Prowlarr — 4 operation(s) for newznab.
+- [Prowlarr Notification API](https://apis.io/apis/prowlarr/prowlarr-notification-api/) — The Notification API from Prowlarr — 6 operation(s) for notification.
+- [Prowlarr Ping API](https://apis.io/apis/prowlarr/prowlarr-ping-api/) — The Ping API from Prowlarr — 1 operation(s) for ping.
+- [Prowlarr Search API](https://apis.io/apis/prowlarr/prowlarr-search-api/) — The Search API from Prowlarr — 2 operation(s) for search.
+- [Prowlarr Static Resource API](https://apis.io/apis/prowlarr/prowlarr-staticresource-api/) — The StaticResource API from Prowlarr — 4 operation(s) for staticresource.
+- [Prowlarr System API](https://apis.io/apis/prowlarr/prowlarr-system-api/) — The System API from Prowlarr — 5 operation(s) for system.
+- [Prowlarr Tag API](https://apis.io/apis/prowlarr/prowlarr-tag-api/) — The Tag API from Prowlarr — 2 operation(s) for tag.
+- [Prowlarr Tag Details API](https://apis.io/apis/prowlarr/prowlarr-tagdetails-api/) — The TagDetails API from Prowlarr — 2 operation(s) for tagdetails.
+- [Prowlarr Task API](https://apis.io/apis/prowlarr/prowlarr-task-api/) — The Task API from Prowlarr — 2 operation(s) for task.
+- [Prowlarr UI Config API](https://apis.io/apis/prowlarr/prowlarr-uiconfig-api/) — The UiConfig API from Prowlarr — 2 operation(s) for uiconfig.
+- [Prowlarr Update API](https://apis.io/apis/prowlarr/prowlarr-update-api/) — The Update API from Prowlarr — 1 operation(s) for update.
+- [Prowlarr Update Log File API](https://apis.io/apis/prowlarr/prowlarr-updatelogfile-api/) — The UpdateLogFile API from Prowlarr — 2 operation(s) for updatelogfile.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Prowlarr Agentic Access](https://apis.io/agentic-access/prowlarr/prowlarr-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CommandResource](https://apis.io/schemas/prowlarr/prowlarr-command-resource/)
+- [HostConfigResource](https://apis.io/schemas/prowlarr/prowlarr-host-config-resource/)
+- [IndexerResource](https://apis.io/schemas/prowlarr/prowlarr-indexer-resource/)
+- [NotificationResource](https://apis.io/schemas/prowlarr/prowlarr-notification-resource/)
+- [ReleaseResource](https://apis.io/schemas/prowlarr/prowlarr-release-resource/)
+- [SystemResource](https://apis.io/schemas/prowlarr/prowlarr-system-resource/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Prowlarr Context](https://apis.io/jsonld/prowlarr/prowlarr-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Prowlarr Openapi Overlay](https://apis.io/overlays/prowlarr/prowlarr-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Prowlarr API Rules](https://apis.io/rules/prowlarr/prowlarr-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Prowlarr Authentication](https://apis.io/security/prowlarr/prowlarr-authentication/)
+- [Prowlarr Domain Security](https://apis.io/security/prowlarr/prowlarr-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -85,8 +172,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [GitHub](https://github.com/Prowlarr)
 - [Status](https://status.prowlarr.com/)
 
-**APIs profiled:** 34
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/prowlarr/](https://apis.io/providers/prowlarr/).
+**Kin Score 53.1** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 50.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 30.1** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/prowlarr/](https://apis.io/providers/prowlarr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Prowlarr: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/prowlarr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
